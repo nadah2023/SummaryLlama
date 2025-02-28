@@ -1,7 +1,7 @@
 # SummaryLlama
 
 ## Overview
-**SummaryLlama**is a text summarization tool that leverages LLaMA-based models to generate concise and meaningful summaries of long-form text. The project is designed to help users process textual data efficiently while maintaining key information.
+**SummaryLlama** is a text summarization tool that leverages LLaMA-based models to generate concise and meaningful summaries of long-form text. The project is designed to help users process textual data efficiently while maintaining key information.
 
 ## Features
 - ✅ **LLaMA-based Summarization** – Uses advanced transformer models for accurate text summarization.
